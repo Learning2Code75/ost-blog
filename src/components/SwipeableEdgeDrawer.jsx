@@ -162,7 +162,7 @@ function SwipeableEdgeDrawer(props) {
             <ListItem
               disablePadding
               onClick={() => {
-                props.handleNavClick("/");
+                props.handleNavClick("/ost-blog");
               }}
             >
               <ListItemButton>

@@ -10,23 +10,23 @@ import Root from "./routes/root";
 function App({ setActive }) {
   const router = createBrowserRouter([
     {
-      path: "/",
+      path: "/ost-blog",
       element: <Root />,
       children: [
         {
-          path: "/",
+          path: "/ost-blog/",
           element: <Home />,
         },
         {
-          path: "news-feed/",
+          path: "/ost-blog/news-feed/",
           element: <NewsFeed />,
         },
         {
-          path: "upcoming-events/",
+          path: "/ost-blog/upcoming-events/",
           element: <UpcomingEvents />,
         },
         {
-          path: "jobs/",
+          path: "/ost-blog/jobs/",
           element: <Jobs />,
         },
       ],
