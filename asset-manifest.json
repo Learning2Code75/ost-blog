@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ost-blog/static/css/main.4a0f8093.css",
+    "main.js": "/ost-blog/static/js/main.1ebdcea9.js",
+    "static/js/787.0bb2c5c2.chunk.js": "/ost-blog/static/js/787.0bb2c5c2.chunk.js",
+    "index.html": "/ost-blog/index.html",
+    "main.4a0f8093.css.map": "/ost-blog/static/css/main.4a0f8093.css.map",
+    "main.1ebdcea9.js.map": "/ost-blog/static/js/main.1ebdcea9.js.map",
+    "787.0bb2c5c2.chunk.js.map": "/ost-blog/static/js/787.0bb2c5c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a0f8093.css",
+    "static/js/main.1ebdcea9.js"
+  ]
+}
